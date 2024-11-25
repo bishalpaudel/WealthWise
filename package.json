@@ -1,0 +1,29 @@
+{
+  "name": "wealthwise",
+  "version": "1.0.0",
+  "description": "App for crypto wealth transfer upon inactivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bishalpaudel/WealthWise.git"
+  },
+  "keywords": [
+    "ethereum",
+    "inheritance",
+    "wealth"
+  ],
+  "author": "Bishal Paudel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bishalpaudel/WealthWise/issues"
+  },
+  "homepage": "https://github.com/bishalpaudel/WealthWise#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.16"
+  }
+}
